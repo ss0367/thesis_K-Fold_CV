@@ -1,2 +1,1 @@
-# thesis_K-Fold_CV
-K-Fold Cross-Validation - Code for ORFE Senior Thesis - Quantifying De-Risking &amp; Investment Timing in Medtech Venture Capital Through a Hidden Markov Framework
+This is an acknowledgment that this code was developed with the assistance of AI.
